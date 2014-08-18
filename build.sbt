@@ -1,4 +1,4 @@
-name := "inapp"
+name := "play-websocket-demo"
 
 version := "1.0-SNAPSHOT"
 
